@@ -4,7 +4,7 @@
  * This is a starting point that have unimplemented parts
  * to be implemented in Activity 5 and b.
  */
-
+// Javascript kommentti
 // use more strict JavaScript (more errors and warnings will
 // be available in developers tools console in browser).
 "use strict";
